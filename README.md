@@ -1,5 +1,5 @@
-### Driven Full-Stack Software Engineer
-Passionate about crafting user-centric solutions based on data-driven insights. Previously thrived in diverse IT roles, including IT Specialist, customer service, and leading impactful marketing projects. Eager to leverage strong technical skills to deliver innovative solutions aligned with company goals. Bilingual in English and Spanish.
+### Full-Stack Software Engineer
+Full-Stack Software Developer skilled in modern technologies. Proven ability to design, develop, and deploy web applications, with expertise in authentication, APIs, and database management using PostgreSQL. Thrived in prevoius IT Specialist role by translating client needs into technical specifications, leading training sessions, and effectively communicating complex concepts to foster strong client relationships. Eager to leverage strong technical skills to deliver innovative solutions aligned with company goals. Bilingual in English and Spanish.
 
 ---
 
