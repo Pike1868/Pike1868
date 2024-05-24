@@ -1,13 +1,14 @@
 ### Full-Stack Software Engineer
-Full-Stack Software Developer skilled in modern technologies. Proven ability to design, develop, and deploy web applications, with expertise in authentication, APIs, and database management using PostgreSQL. Thrived in prevoius IT Specialist role by translating client needs into technical specifications, leading training sessions, and effectively communicating complex concepts to foster strong client relationships. Eager to leverage strong technical skills to deliver innovative solutions aligned with company goals. Bilingual in English and Spanish.
+Certified Full Stack Software Developer with a strong foundation in modern technologies. Knowledgeable in designing, developing, testing, debugging, and deploying web applications. Experienced in working with APIs, building front-end user interfaces, and developing back-end functionalities. 
 
 ---
 
 #### Skills:
 - **Languages**: TypeScript, JavaScript, Python
-- **Frameworks**: React, Redux, Node.js, Express, Flask
+- **Frameworks**: React, React Native, Next.js, Redux, Node.js, Express, Flask
 - **Databases**: PostgreSQL, SQL
 - **Tools**: Linux, Jest, Git, GitHub
+- **Methodologies**: Agile
 - **Soft Skills**:
   - Teamwork and collaboration
   - Ability to work independently
