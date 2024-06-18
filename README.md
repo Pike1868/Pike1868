@@ -5,7 +5,7 @@ Certified Full Stack Software Developer with a strong foundation in modern techn
 
 #### Skills:
 - **Languages**: TypeScript, JavaScript, Python
-- **Frameworks**: React, React Native, Next.js, Redux, Node.js, Express, Flask
+- **Frameworks**: React, React Native, Redux, Node.js, Express, Flask
 - **Databases**: PostgreSQL, SQL
 - **Tools**: Linux, Jest, Git, GitHub
 - **Methodologies**: Agile
