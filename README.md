@@ -29,6 +29,5 @@ Feel free to connect with me, drop me a message, or check out what I’ve been u
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pike1868&layout=pie&langs_count=8&theme=tokyonight" alt="Luis's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Pike1868&show_icons=true&theme=radical" alt="Luis's GitHub stats" />
 </div>
 
