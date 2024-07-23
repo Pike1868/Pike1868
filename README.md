@@ -2,7 +2,9 @@
 Certified Full Stack Software Developer with a strong foundation in modern technologies. Knowledgeable in designing, developing, testing, debugging, and deploying web applications. Experienced in working with APIs, building front-end user interfaces, and developing back-end functionalities. 
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pike1868&label=Profile%20views&color=0e75b6&style=flat" alt="pike1868" /> </p>
 
+---
 #### Skills:
 - **Languages**: TypeScript, JavaScript, Python
 - **Frameworks**: React, React Native, Redux, Node.js, Express, Flask
